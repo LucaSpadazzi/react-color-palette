@@ -2,7 +2,7 @@ import { ColorPickerProps } from "./ColorPicker.types";
 import { Saturation } from "../Saturation";
 import { Hue } from "../Hue";
 import { Fields } from "../Fields";
-import "./styles.css";
+//import "./styles.css";
 
 const ColorPicker = ({
   width,
